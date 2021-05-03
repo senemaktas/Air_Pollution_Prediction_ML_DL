@@ -20,3 +20,13 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
     11. Iws: Cumulated wind speed
     12. Is: Cumulated hours of snow
     13. Ir: Cumulated hours of rain
+
+
+# Machine Learning Model
+
+
+# Deep Learning Model
+
+
+# Evaluation
+
