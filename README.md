@@ -27,7 +27,14 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 
 
 # Preprocessings
-- 
+- x
+- Remove the unwanted columns
+- Calculation Null Values and Filling Them with Mean Values
+- Finding and Removing Outliers
+- Checking correlations between the independent variables
+- Split Dataset into training and test data
+- Feature scaling- MinMAxScaler & StandartScaler
+- PCA (Principai Component Analysis)
 
 # Machine Learning Model
 
