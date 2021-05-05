@@ -25,6 +25,10 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 
 <img src="corelation_between_variables.png" alt="corelation_between_variables"	width="500" height="300" /> 
 
+
+# Preprocessings
+- 
+
 # Machine Learning Model
 
 
@@ -32,5 +36,7 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 
 <img src="deep_learning.png" alt="dl"	width="400" height="300" /> 
 
-# Evaluation
+### Best model DL -Bayesion Optimization Results
+
+<img src="best_model_dl.png" alt="best_model_dl" width="400" height="300" /> 
 
