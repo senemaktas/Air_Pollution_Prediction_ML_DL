@@ -21,12 +21,16 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
     12. Is: Cumulated hours of snow
     13. Ir: Cumulated hours of rain
 
+### Correlation Between Variables
+
+<img src="corelation_between_variables.png" alt="corelation_between_variables"	width="500" height="300" /> 
 
 # Machine Learning Model
 
 
 # Deep Learning Model
 
+<img src="deep_learning.png" alt="dl"	width="400" height="300" /> 
 
 # Evaluation
 
