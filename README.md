@@ -41,11 +41,11 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 - PCA (Principai Component Analysis)
 
 
-# Machine Learning Model
+# Machine Learning Model (SGDRegressor and XBoostRegressor)
 
 <img src="machine_learning.png" alt="ml"	width="400" height="300" /> 
 
-# Deep Learning Model
+# Deep Learning Model (LSTM)
 
 <img src="deep_learning.png" alt="dl"	width="400" height="300" /> 
 
