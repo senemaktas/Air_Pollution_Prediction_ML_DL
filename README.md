@@ -53,7 +53,7 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 
 <img src="deep_learning.png" alt="dl"	width="400" height="300" /> 
 
-### Best model DL - Bayesion Optimization Results
+### Bayesion Optimization Results
 
 <img src="best_model_dl.png" alt="best_model_dl" width="400" height="300" /> 
 
