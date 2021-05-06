@@ -43,7 +43,11 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 
 # Machine Learning Model (SGDRegressor and XBoostRegressor)
 
-<img src="machine_learning.png" alt="ml"	width="400" height="300" /> 
+### SGDRegressor
+<img src="ml_sgd.png" alt="sgd"	width="400" height="300" /> 
+
+### XBoostRegressor
+<img src="ml_xboost.png" alt="xboost"	width="400" height="300" /> 
 
 # Deep Learning Model (LSTM)
 
