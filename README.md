@@ -23,11 +23,11 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 
 ### Plot of the Pollution Column
 
-<img src="plot_pollution.png" alt="plot_pollution"	width="700" height="300" /> 
+<img src="plot_pollution.png" alt="plot_pollution"	width="500" height="200" /> 
 
 ### Correlation Between Variables
 
-<img src="corelation_between_variables.png" alt="corelation_between_variables"	width="500" height="300" /> 
+<img src="corelation_between_variables.png" alt="corelation_between_variables"	width="400" height="200" /> 
 
 
 # Preprocessings
@@ -44,16 +44,16 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 # Machine Learning Model (SGDRegressor and XBoostRegressor)
 
 ### SGDRegressor
-<img src="ml_sgd.png" alt="sgd"	width="400" height="300" /> 
+<img src="ml_sgd.png" alt="sgd"	width="200" height="200" /> 
 
 ### XBoostRegressor
-<img src="ml_xboost.png" alt="xboost"	width="400" height="300" /> 
+<img src="ml_xboost.png" alt="xboost"	width="200" height="200" /> 
 
 # Deep Learning Model (LSTM)
 
-<img src="deep_learning.png" alt="dl"	width="400" height="300" /> 
+<img src="deep_learning.png" alt="dl"	width="200" height="200" /> 
 
 ### Bayesion Optimization Results
 
-<img src="best_model_dl.png" alt="best_model_dl" width="400" height="300" /> 
+<img src="best_model_dl.png" alt="best_model_dl" width="200" height="200" /> 
 
