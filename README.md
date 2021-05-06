@@ -37,7 +37,7 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 - Finding and Removing Outliers
 - Checking correlations between the independent variables
 - Split Dataset into training and test data
-- Feature scaling- MinMAxScaler & StandartScaler
+- Feature scaling- MinMaxScaler & StandartScaler
 - PCA (Principai Component Analysis)
 
 # Machine Learning Model
@@ -48,7 +48,7 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 
 <img src="deep_learning.png" alt="dl"	width="400" height="300" /> 
 
-### Best model DL -Bayesion Optimization Results
+### Best model DL - Bayesion Optimization Results
 
 <img src="best_model_dl.png" alt="best_model_dl" width="400" height="300" /> 
 
