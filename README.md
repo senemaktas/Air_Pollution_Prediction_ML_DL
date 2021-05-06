@@ -21,13 +21,17 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
     12. Is: Cumulated hours of snow
     13. Ir: Cumulated hours of rain
 
+### Plot of the Pollution Column
+
+<img src="plot_pollution.png" alt="plot_pollution"	width="700" height="300" /> 
+
 ### Correlation Between Variables
 
 <img src="corelation_between_variables.png" alt="corelation_between_variables"	width="500" height="300" /> 
 
 
 # Preprocessings
-- x
+- Merge ('year', 'month', 'day', 'hour' ) columns as 'DateTime' and convert these columns into a timestamp.
 - Remove the unwanted columns
 - Calculation Null Values and Filling Them with Mean Values
 - Finding and Removing Outliers
@@ -38,6 +42,7 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 
 # Machine Learning Model
 
+<img src="machine_learning.png" alt="ml"	width="400" height="300" /> 
 
 # Deep Learning Model
 
