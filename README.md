@@ -37,7 +37,7 @@ This data set includes hourly air pollutants data from 12 nationally-controlled 
 - Finding and Removing Outliers
 - Checking correlations between the independent variables
 - Split Dataset into training and test data
-- Feature scaling- MinMaxScaler & StandartScaler-ColumnTransformer
+- Feature scaling- MinMaxScaler & ColumnTransformer
 - PCA (Principai Component Analysis)
 
 
